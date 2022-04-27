@@ -1,3 +1,5 @@
+<style> 
+
 .fade {
     background-color: hsl(0, 0%, 100%);
     border: none;
@@ -7,3 +9,6 @@
   }
 
   .fade:hover {opacity: 1} 
+
+
+</style>
